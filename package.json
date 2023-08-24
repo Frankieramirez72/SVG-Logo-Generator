@@ -1,0 +1,11 @@
+{
+  "name": "week-10-challenge",
+  "version": "1.0.0",
+  "description": "make a svg logo generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

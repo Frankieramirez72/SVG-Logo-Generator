@@ -1,11 +1,25 @@
 {
-  "name": "week-10-challenge",
+  "name": "module-10-project",
   "version": "1.0.0",
-  "description": "make a svg logo generator",
+  "description": "## Your Task",
   "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
   "scripts": {
     "test": "jest"
   },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
 }
